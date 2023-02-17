@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+<p align='center'>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Meteors27&count_private=true&include_all_commits=false&hide_border=true&show_icons=true&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF&bg_color=0,D16BA5,86A8E7,5FFBF1" />
+</p>
+<p align='center'>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meteors27&layout=compact&card_width=415&text_color=FFFFFF&title_color=FFFFFF&icon_color=FFFFFF&bg_color=0,D16BA5,86A8E7,5FFBF1" />
+</p>
+
+
+
 <!--
 **Meteors27/Meteors27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
